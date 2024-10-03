@@ -1,0 +1,96 @@
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpressProject.exe.config
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpressProject.exe
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpressProject.pdb
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Data.Desktop.v23.2.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Data.v23.2.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Drawing.v23.2.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Printing.v23.2.Core.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Sparkline.v23.2.Core.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Utils.v23.2.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraBars.v23.2.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraEditors.v23.2.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Pdf.v23.2.Core.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.csproj.AssemblyReference.cache
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.Properties.Resources.resources
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.csproj.GenerateResource.cache
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.exe.licenses
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.csproj.CoreCompileInputs.cache
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.csproj.CopyComplete
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.exe
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.pdb
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraGrid.v23.2.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraLayout.v23.2.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraPrinting.v23.2.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.RichEdit.v23.2.Core.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Office.v23.2.Core.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmUrunler.resources
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmAnaSayfa.resources
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmMusteriler.resources
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmFirmalar.resources
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Images.v23.2.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraRichEdit.v23.2.dll
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmPersoneller.resources
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmRehber.resources
+C:\Users\Okan\source\repos\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmMail.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpressProject.exe.config
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpressProject.exe
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpressProject.pdb
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Pdf.v23.2.Drawing.dll
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraTreeList.v23.2.dll
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Data.Desktop.v23.2.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Data.v23.2.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Drawing.v23.2.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Office.v23.2.Core.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Pdf.v23.2.Core.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Printing.v23.2.Core.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.RichEdit.v23.2.Core.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Sparkline.v23.2.Core.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Utils.v23.2.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraBars.v23.2.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraEditors.v23.2.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraGrid.v23.2.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraLayout.v23.2.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraPrinting.v23.2.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraRichEdit.v23.2.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.Pdf.v23.2.Drawing.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\bin\Debug\DevExpress.XtraTreeList.v23.2.xml
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.csproj.AssemblyReference.cache
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmAnaSayfa.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmFirmalar.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmMail.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmMusteriler.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmPersoneller.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmRehber.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmUrunler.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.Properties.Resources.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.csproj.GenerateResource.cache
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.exe.licenses
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.exe
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.pdb
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmGiderler.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmBankalar.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmFaturalar.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmFaturaUrunler.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmFaturaDetayGuncelleme.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpressProject.FrmAdmin.resources
+C:\Users\Okan\Desktop\Software Development\DevExpressProject\DevExpressProject\obj\Debug\DevExpre.DADB2BFD.Up2Date
